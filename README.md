@@ -3,7 +3,7 @@
 #### Technical Skills: Java, SpringBoot, MySQL, RabbitMQ, Hazelcast, MicroServices
 
 ## Education
-- B.Tech, Information Technology | Chennai Insititute of Technology (_May 2023_)								       		
+B.Tech, Information Technology | Chennai Insititute of Technology (_May 2023_)								       		
 
 ## Work Experience
 **Software Engineer @ CustomerInspire (_April 2024 - Present_)**
@@ -30,6 +30,9 @@ and post scrum messages on teams.
 transform them to a report for an administrator who can approve or reject the employee’s requests via email. On approval
 an offer letter and ID Card would be automatically generated and emailed to the employee.
 
+## Blog
+[Medium](https://medium.com/@lkk9701)
+
 ## Projects
 ### Sales Forecast - A web application that forecasts sales
 [GitHub](https://github.com/Kishore-97/SalesForecast)
@@ -51,4 +54,4 @@ Also has mouse-mode which lets you to operate a virtual mouse with a complete se
 <!-- ## Publications
  -->
 
-- [Medium Blog](https://medium.com/@lkk9701)
+
